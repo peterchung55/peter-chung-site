@@ -17,3 +17,14 @@ WHAT TO PRODUCE
 3. VERIFY each item by fetching the article itself before you write about it. Use only figures, names and dates you have actually read. Never invent a number, a quote or a date. If you cannot verify something, leave it out.
 4. Write one headline-style title (a sentence, not a label) and a 3-4 paragraph first-person "take" in English that connects the week's items to what they mean operationally — routing, capacity, timing, cost, risk. Then a condensed Korean version of the same take, 3-5 sentences, as a single paragraph.
 5. NEVER reproduce article text. Write original one-to-three sentence summaries in your own words and always link the source.
+6. PHOTOS — one lead photo for the issue plus one photo per item, chosen to match the content.
+   a. First choice: the photo the source article uses. Open the article, find its main image and its
+      credit line, then check the rights holder's terms (newsroom, press-kit or terms-of-use page).
+      Use it only if the holder explicitly allows reuse on a site like this (an open licence, or press
+      images released for media use). The credit line alone ("© X") is NOT permission. If the terms
+      forbid reproduction or say nothing, do not use it. Never hotlink it either.
+   b. Otherwise: a freely licensed photo from Wikimedia Commons (CC BY, CC BY-SA, CC0 or public
+      domain) of the exact place, line, terminal or operator in the story. Look at it before choosing.
+   c. Save to images/blog/weekNN/ (lead about 1600px wide, item photos about 960px), and give every
+      photo a caption with author, a link to the file page, and the licence with a link.
+   d. Tell the owner which source photos were checked and why each was or was not used.

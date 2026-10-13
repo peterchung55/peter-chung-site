@@ -24,7 +24,9 @@ The brief for writing an issue is in `.claude/weekly-briefing.md`. Issues are da
 
 1. Copy the latest `blog/weekNN/index.html` to `blog/week(NN+1)/index.html` and replace the content:
    `<title>`, meta description, canonical/og URLs, `article:published_time`, h1, issue no. and date,
-   the take, the side facts, the Korean paragraph, and the item list with source links.
+   the take, the side facts, the Korean paragraph, the item list with source links, and the photos
+   (lead `.brief-hero` + one `.item-src__fig` per item, saved in `images/blog/weekNN/`, credited per
+   step 6 of the brief). Point og:image/twitter:image at the lead photo and use it as the list thumbnail.
 2. Add a new `.row` at the top of the list in `blog/index.html` (newest first).
 3. On the previous issue page, point the pager's left slot at the new issue if useful.
 4. Pages under `blog/` use root-absolute paths (`/assets/...`, `/blog/`), so preview them through the
