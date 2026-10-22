@@ -380,10 +380,15 @@ a.row:hover .row__go { opacity: 1; transform: translateX(3px); }
 .item-src__b p { color: var(--body); }
 .item-src__link { font-size: 14px; color: var(--muted); }
 .item-src__link a { border-bottom: 1px solid var(--rule-strong); }
+.item-src__tag { font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.item-src__why { font-size: 15px; }
+.item-src__why strong { color: var(--brass); font-weight: 600; }
+.brief__extra { grid-column: span 7; border-top: 1px solid var(--rule); padding-top: 28px; display: flex; flex-direction: column; gap: 14px; }
+.brief__extra p { color: var(--body); font-size: 17px; line-height: 1.75; }
 
 @media (max-width: 1100px) {
   .brief { grid-template-columns: 1fr; }
-  .brief__body, .brief__side, .brief__ko { grid-column: auto; }
+  .brief__body, .brief__side, .brief__ko, .brief__extra { grid-column: auto; }
 }
 @media (max-width: 720px) {
   .posts { padding-top: 24px; padding-bottom: 44px; }
