@@ -28,3 +28,19 @@ WHAT TO PRODUCE
    c. Save to images/blog/weekNN/ (lead about 1600px wide, item photos about 960px), and give every
       photo a caption with author, a link to the file page, and the licence with a link.
    d. Tell the owner which source photos were checked and why each was or was not used.
+
+FORMAT (v2, used from No. 02 on — copy the latest blog/weekNN/index.html as the template)
+- Headline sentence; lead photo; the take (3-4 paragraphs: on the ground first, then behind the
+  logistics, then what I am doing about it) and an italic "Note on scope" line saying how many items
+  passed verification and what was left out; a sidebar "This week at a glance"; the Korean summary.
+- Part A · On the ground — 3-5 logistics items (ports, rail, road/borders, customs, carriers), each
+  with a photo, a 1-2 sentence summary and the source.
+- Part B · Behind the logistics — 2-6 regional context items (politics, EU integration, economy,
+  sanctions, law/regulation, security), each with a category tag, summary, a "Logistics link:" line
+  and the source. Photos optional.
+- Country of the week (one of the ten scope countries, facts only from this week's verified sources,
+  ending with "Watch: ...") and People to know (one or two names, with sources).
+- Do not repeat items already covered in earlier issues unless there is a genuine follow-up; read the
+  previous issue first and link back to it for follow-ups.
+- Also save a short draft record with editor's notes (what was dropped and why, which photos were
+  checked) to C:\Users\peter\OneDrive\Desktop\Breifing\weekly-briefing-YYYY-MM-DD.md.
